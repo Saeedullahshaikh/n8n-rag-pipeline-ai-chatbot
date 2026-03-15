@@ -19,7 +19,6 @@ This project automatically ingests documents from Google Drive, converts them in
 6. Exposes a **chat interface**
 7. An **AI Agent retrieves relevant context** from Pinecone and answers questions using an LLM
 
-This creates a **self-updating AI knowledge base**.
 
 ---
 
